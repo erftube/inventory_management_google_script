@@ -11,6 +11,10 @@ A comprehensive web-based inventory management application built with Google App
 * Out of stock notifications
 * Total inventory value (calculated from price and stock)
 
+[Inventory System | Live Demo](https://tinyurl.com/erftubeBigCarrotInventory)
+
+![Example Image](preview.png)
+
 ### Product Management
 
 * Add Products: Create new inventory items with full product details
